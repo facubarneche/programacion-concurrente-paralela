@@ -67,5 +67,5 @@ def detener_carrera():
 ganador = None
 
 # Inicia la carrera con cantidad de caballos y distancia meta como parametros
-carrera = Carrera(20, 100)
+carrera = Carrera(25, 100)
 carrera.iniciar()
