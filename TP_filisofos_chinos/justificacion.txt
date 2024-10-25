@@ -1,0 +1,1 @@
+La RdP es acotada ya que no crecerá ilimitadamente. Por otro lado es L1 ya que existe 1 secuencia de disparo, agregando que la RdP es ordinaria ya que todas las transiciones son de a 1 token. Para finalizar no es persistente ya que el disparo de una transicion puede bloquear otras transiciones.
